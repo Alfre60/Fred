@@ -1,2 +1,3 @@
-# Fred
-Protótipo de uma IA genérica de resposta 
+# Curso de Vasos de Sementes
+
+Site mobile-first para o curso Raiz & Vaso.
